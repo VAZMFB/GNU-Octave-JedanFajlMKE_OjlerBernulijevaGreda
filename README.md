@@ -1,4 +1,4 @@
-# GNU OCtave Jedan Fajl MKE Ojler Bernulijeva Greda ([GNU Octave Single File FEM Euler Bernoulli Beam](https://github.com/VAZMFB/GNU-Octave-SingleFileFEM_EulerBernoulliBeam) in Serbian)
+# GNU Octave Jedan Fajl MKE Ojler Bernulijeva Greda ([GNU Octave Single File FEM Euler Bernoulli Beam](https://github.com/VAZMFB/GNU-Octave-SingleFileFEM_EulerBernoulliBeam) in Serbian)
 
 Primer proračuna Metodom Konačnih Elemenata sa Ojler Bernulijevim Gredama implementiran u jednom GNU Octave fajlu.
 
@@ -18,7 +18,7 @@ Navedeni kod je testiran sa **GNU Octave 6.4.0**.
 Prilagodite ulazne paramtere i pokrenite `JedanFajlMKE_OjlerBernulijevaGreda.m` koristeći GNU Octave.
 
 ## Licenca
-Copyright (C) 2021 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2022 Miloš Petrašinović <info@vazmfb.com>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 
