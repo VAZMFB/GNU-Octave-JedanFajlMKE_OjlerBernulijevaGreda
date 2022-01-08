@@ -1,0 +1,10 @@
+--------------------
+GNU-Octave-JedanFajlMKE_OjlerBernulijevaGreda
+Primer proračuna Metodom Konačnih Elemenata sa Ojler Bernulijevim Gredama implementiran u jednom GNU Octave fajlu.
+--------------------
+
+Release 1.0.0, 08.01.2022.
+
+- Prvo izdanje
+
+--------------------
