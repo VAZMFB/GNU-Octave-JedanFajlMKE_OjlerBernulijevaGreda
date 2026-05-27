@@ -5,12 +5,12 @@
 % Proracun strukture letelica
 % Masinski fakultet, Univerzitet u Beogradu
 % Katedra za vazduhoplovstvo, Struktura letelica
-% https://vazmfb.com
+% http://vaz.mas.bg.ac.rs
 % Beograd, 2022
 %
 % ---------------
 %
-% Copyright (C) 2022 Milos Petrasinovic <info@vazmfb.com>
+% Copyright (C) 2022 Milos Petrasinovic <mpetrasinovic@mas.bg.ac.rs>
 %  
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as 
